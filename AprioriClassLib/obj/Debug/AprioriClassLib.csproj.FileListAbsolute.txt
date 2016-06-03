@@ -1,0 +1,5 @@
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriClassLib\bin\Debug\AprioriClassLib.dll
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriClassLib\bin\Debug\AprioriClassLib.pdb
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriClassLib\obj\Debug\AprioriClassLib.dll
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriClassLib\obj\Debug\AprioriClassLib.pdb
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriClassLib\obj\Debug\AprioriClassLib.csprojResolveAssemblyReference.cache

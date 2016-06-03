@@ -1,0 +1,12 @@
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\bin\Debug\AprioriWinFormsApp.exe.config
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\bin\Debug\AprioriWinFormsApp.exe
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\bin\Debug\AprioriWinFormsApp.pdb
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.Properties.Resources.resources
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.csproj.GenerateResource.Cache
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.exe
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.pdb
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\bin\Debug\AprioriClassLib.dll
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\bin\Debug\AprioriClassLib.pdb
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.MainForm.resources
+C:\Users\Каркуша\Documents\Visual Studio 2015\Projects\AprioriClassLib\AprioriWinFormsApp\obj\Debug\AprioriWinFormsApp.ResultForm.resources
