@@ -68,8 +68,10 @@ namespace AprioriWinFormsApp
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
+        {            
             Apriori apriori = new Apriori(list,countOfItems);
+            apriori.MinSupport = double.Parse(supportTextBox.Text);
+            apriori.MinConfidence = double.Parse(confidenceTextBox.Text);
             Stopwatch stw = new Stopwatch();
             stw.Start();
             apriori.Build();
